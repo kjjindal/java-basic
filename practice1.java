@@ -21,7 +21,7 @@
 
        // wrt a program to check double and triple space has or not
 
-       String  address="Near khalsa tent house mori  char bagh  bharatpur";
+       String  address="Near khalsa tent house mori  char bagh  bharatpur 321001";
        if(address.indexOf("  ")>0){
            System.out.println("double spaces is here");
        }
